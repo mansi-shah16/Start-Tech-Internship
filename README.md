@@ -1,7 +1,7 @@
 # Start-Tech-Internship
 **Problem Statement 1- MS Excel**
 Part 1
-It inludes drawing pivot table and adding filters.
+It inludes drawing pivot table and adding filters to the dataset provided.
 
 Part 2
 Creating the financial dashboard using different charts like bar chart, pie chart, column chart and line chart.
